@@ -30,7 +30,6 @@ All analysis tables live on the **`Analysis`** sheet, and every figure is calcul
 | `Items Purchased` | Number of items purchased | Integer |
 | `Average Rating` | Average rating given by the customer (out of 5) | Decimal |
 | `Discount Applied` | Whether a discount was used (TRUE / FALSE) | Boolean |
-| `Column1` | Unused / empty helper column | – |
 | `Days Since Last Purchase` | Days elapsed since the last purchase | Integer |
 | `Satisfaction Level` | Satisfied / Neutral / Unsatisfied | Text |
 
